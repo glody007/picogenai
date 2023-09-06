@@ -1,4 +1,5 @@
 /node_modules
+testing
 .env
 .vscode
 .DS_Store
