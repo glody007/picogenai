@@ -17,7 +17,7 @@ yarn add picogenai
 The code below shows how to get started using picogenai to generate image.
 
 ```js
-import PicogenAI from 'picogenai';
+import { PicogenAI } from 'picogenai'
 
 const picogenai = new PicogenAI({
   apiKey: 'my api key'
